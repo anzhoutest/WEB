@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1564392596084" stop="1564392609944">
+  <name>WEB.Scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1564392596084" status="passed" stop="1564392605716">
+      <name>home_page.Test_home_page.test_click_search[python-python]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8608-MainThread"/>
+        <label name="host" value="DESKTOP-MP38JN5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1564392605718" status="passed" stop="1564392607849">
+      <name>home_page.Test_home_page.test_click_search[selenium-selenium]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8608-MainThread"/>
+        <label name="host" value="DESKTOP-MP38JN5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1564392607850" status="passed" stop="1564392609944">
+      <name>home_page.Test_home_page.test_click_search[jmeter-jmeter]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8608-MainThread"/>
+        <label name="host" value="DESKTOP-MP38JN5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","WEB.Scripts.home_page.Test_home_page.test_click_search[python-python]","8703",""
+"passed","WEB.Scripts.home_page.Test_home_page.test_click_search[jmeter-jmeter]","2073",""
+"passed","WEB.Scripts.home_page.Test_home_page.test_click_search[selenium-selenium]","2105",""

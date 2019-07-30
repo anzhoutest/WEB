@@ -1,0 +1,60 @@
+{
+  "uid" : "1790c86d1069f085",
+  "name" : "home_page.Test_home_page.test_click_search[jmeter-jmeter]",
+  "fullName" : "WEB.Scripts.home_page.Test_home_page.test_click_search[jmeter-jmeter]",
+  "historyId" : "48644f3c57056e89b5f27e7ce787f331",
+  "time" : {
+    "start" : 1564122396365,
+    "stop" : 1564122398438,
+    "duration" : 2073
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-MP38JN5"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "15024-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "WEB.Scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "WEB.Scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "home_page.Test_home_page.test_click_search[jmeter-jmeter]"
+  }, {
+    "name" : "package",
+    "value" : "WEB.Scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1790c86d1069f085.json",
+  "parameterValues" : [ ]
+}
